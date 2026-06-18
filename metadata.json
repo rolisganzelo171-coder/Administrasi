@@ -1,0 +1,6 @@
+{
+  "name": "Administrasi Sekolah & Dapodik Hub",
+  "description": "Sistem informasi administrasi sekolah terintegrasi standar Dapodikdasmen dengan fitur login multi-peran, manajemen GTK & Peserta Didik, grafik nilai belajar, jurnal EMIS, log audit, ekspor/impor Excel, dan cetak rapor PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
